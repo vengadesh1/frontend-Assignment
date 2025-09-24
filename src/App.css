@@ -1,0 +1,114 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+.isign{
+  position: absolute;
+  background-image: url('img/logok.jpg');
+  background-size: cover;
+  height: 575px;
+  width: 1260px;
+  background-repeat: no-repeat;
+}
+.ilog{
+  position: absolute;
+  background-image: url('img/logg.jpg');
+  background-size: cover;
+  height: 575px;
+  width: 1260px;
+  background-repeat: no-repeat;
+}
+.itable{
+  position: absolute;
+  /* background-image: url('img/lake.jpg'); */
+  background-size: cover;
+  height: 575px;
+  width: 1260px;
+  background-repeat: no-repeat;
+}
+.iform{
+  position: absolute;
+  background-image: url('img/lake.jpg');
+  background-size: cover;
+  height: 575px;
+  width: 1260px;
+  background-repeat: no-repeat;
+}
+.back{
+  margin: 150px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 15px;
+  height: 250px;
+}
+.sign{
+  margin-top: 140px;
+  background-color:rgba(255, 255, 255, 0.8);
+  border: 1px solid rgb(215, 224, 231,0.5);
+  border-radius: 15px;
+  height: 300px;
+  width: 500px;
+  margin-left: 380px;
+  color: rgb(46, 41, 49);
+}
+.log{
+  margin-top: 140px;
+  background-color:rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(228, 228, 228, 0.5);
+  border-radius: 15px;
+  height: 300px;
+  width: 500px;
+  margin-left: 380px;
+  color: rgb(46, 41, 49);
+}
+.len{
+  width: 400px;
+}
+.len1{
+  width: 200px;
+  
+}
+.center{
+  margin-left: 50px;
+}
+.card{
+  margin-left: 150px;
+}
